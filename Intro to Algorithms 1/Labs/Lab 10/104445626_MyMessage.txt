@@ -1,0 +1,9 @@
+I am a third year business student, but I added computer science to my degree as well. 
+This first term of being in this new program has been an eye opener. 
+I learned quite a lot about C programming, as well as how computer science basics work. 
+This is the first time that I felt like I gained a skill that is very useful. 
+The computer science program has given me the ability to improve my critical thinking and logic
+ skills through various assignments and labs. Additionally, I was able to learn new concepts such
+ as things discussed in linear algebra and key concepts in computer science. The 03-60-140
+ C-language course also grabbed my interest of coding; I hope I can use the knowledge to 
+motivate me to use it alongside my business degree in the future. 
